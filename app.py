@@ -18,6 +18,7 @@ def main():
     #alcohol = st.slider("Alcohol", 8, 15)
     if st.button('Einschätzung'):
         st.title(prediction)
+        st.balloons()
 
 
 if __name__ == '__main__':
