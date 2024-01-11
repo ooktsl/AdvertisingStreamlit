@@ -1,5 +1,5 @@
 # AdvertisingStreamlit
-I-Wunder Demo, Heroku Deploy
+Demo, Heroku Deploy
 
 ## Mit Streamlit ist das mein erstes Projekt 
 
